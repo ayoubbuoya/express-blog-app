@@ -33,4 +33,4 @@ This is a simple CRUD (Create, Read, Update, Delete) blog website built with Exp
    ```bash
    npm run dev
    ```
-4. Open your browser and navigate to `http://localhost:4000/` to view the app.
+4. Open your browser and navigate to `http://localhost:4000/posts` to view the app.
